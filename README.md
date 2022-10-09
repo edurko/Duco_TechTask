@@ -1,4 +1,4 @@
-# Integration tests for Real World app
+# Test for Google Homepage component
 
 ## About
 This is a test automation framework with a list of the tests for [Real World example apps](https://github.com/gothinkster/realworld). 
@@ -6,9 +6,8 @@ This is a test automation framework with a list of the tests for [Real World exa
 ## Requirements
 | Plugin | README |
 | ------ | ------ |
-| Java (at least 11) | https://www.oracle.com/java/technologies/javase-downloads.html |
-| Maven (at least 3) | https://maven.apache.org/download.cgi |
-| Google Chrome (latest) | https://www.google.com/chrome/ |
+| Java 11 | https://www.oracle.com/java/technologies/javase-downloads.html |
+| Maven Project | https://maven.apache.org/download.cgi |
 
 ## Execution
 To trigger the tests on local environment use follow command:

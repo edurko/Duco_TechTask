@@ -1,7 +1,7 @@
 # Test for Google Homepage component
 
 ## About
-This is a test automation framework with a list of the tests for [Real World example apps](https://github.com/gothinkster/realworld). 
+This is a test automation framework includes ui Tests for Google Homepage -> www.google.com
 
 ## Requirements
 | Plugin | README |
